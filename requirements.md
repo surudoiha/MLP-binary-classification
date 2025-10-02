@@ -18,7 +18,7 @@
 
 | Metric                 | Value  |
 |------------------------|--------|
-| Training accuracy      | ~98.97%[attached_file:1] |
-| Test accuracy          | Shown in notebook outputs[attached_file:1] |
+| Training accuracy      | ~98.97% |
+| Test accuracy          | Shown in notebook outputs |
 
 ## Author
