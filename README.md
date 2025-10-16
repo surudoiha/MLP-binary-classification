@@ -13,7 +13,6 @@ The goal was to build a binary classifier using a Multi-Layer Perceptron (MLP) n
 
 | Filename                 | Content                                              |
 |--------------------------|------------------------------------------------------|
-| `Project_Requrments.pdf` | Project requirement document                         |
 | `Project.ipynb`          | Jupyter notebook with model code, outputs and answers|
 | `data/data.csv`          | Dataset used for training and testing the model      |
 
